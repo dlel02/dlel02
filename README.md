@@ -1,7 +1,9 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=dlel02&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=dlel02&fontSize=60)
 
 
+## 🛠️Tech Stack🛠️
+# Techs that I've used at least once
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlel02&show_icons=true&theme=flag-india)
