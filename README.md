@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=220&section=header&text=dlel02&fontSize=60)
+<h2>![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=220&section=header&text=dlel02&fontSize=60)</h2>
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center">Techs that I've used at least once</p>
