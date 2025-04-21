@@ -3,7 +3,7 @@
 
 ## 🛠️Tech Stack🛠️
 Techs that I've used at least once \n
-![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) </a>&nbsp
 ![js](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![js](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
