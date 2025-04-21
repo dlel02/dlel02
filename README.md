@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
 </p>
 
+## 📝 Problem Solving
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlel02&show_icons=true&theme=flag-india)
 
