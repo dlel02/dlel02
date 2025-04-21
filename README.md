@@ -1,10 +1,9 @@
-## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=220&section=header&text=dlel02&fontSize=60)
 
 
 ## 🛠️Tech Stack🛠️
 Techs that I've used at least once
-
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlel02&show_icons=true&theme=flag-india)
 
@@ -14,6 +13,7 @@ Techs that I've used at least once
 
 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=)]()
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daniel2589)](https://solved.ac/daniel2589/)
 
