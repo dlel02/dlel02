@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=220&section=header&text=dlel02&fontSize=60)
 
+<h3 align="center">🛠️ Tech Stack 🛠️</h3>
+<p align="center">Techs that I've used at least once</p>
 
-## 🛠️Tech Stack🛠️
 <p align="center">
-  Techs that I've used at least once <br><br>
+  <br>
   
   ![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
   ![js](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -12,7 +13,7 @@
   ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-  <br><br>
+  <br>
 
   ![js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![js](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
