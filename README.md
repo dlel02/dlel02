@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=220&section=header&text=dlel02&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=220&section=header&text=dlel02&fontSize=60)
 
 
 ## 🛠️Tech Stack🛠️
