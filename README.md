@@ -3,7 +3,16 @@
 
 ## 🛠️Tech Stack🛠️
 Techs that I've used at least once
-https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![js](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![js](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![js](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![js](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlel02&show_icons=true&theme=flag-india)
 
